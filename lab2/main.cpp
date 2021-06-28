@@ -95,8 +95,8 @@ static size_t wB=600;
 static size_t hB=400;
 static size_t wC = 600;
 static size_t hC = 200;
-static size_t wC = wD;
-static size_t hC = hD;
+static size_t wD = wC;
+static size_t hD = hC;
 
 // Entry point.
 int main(int argc, char **argv) {
